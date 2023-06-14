@@ -1,5 +1,5 @@
 <?php
-
+phpinfo();
 error_reporting(0); #Desactivamos el reporte de errores. 
 /*******************************
  * Nombre del archivo: index.php
@@ -63,4 +63,3 @@ EOD;
     include_once RAIZ . "/config.php";
 }
 include_once RAIZ . "/inc/pie.php"; #En todos los casos incluimos el pie de página
-?>
